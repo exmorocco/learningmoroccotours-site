@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 124"><style>@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&amp;family=Inter:wght@600&amp;display=swap");.w{font-family:"Playfair Display",Georgia,serif;font-weight:700}.t{font-family:Inter,Arial,sans-serif;font-weight:600;letter-spacing:.32em}</style><path d="M18 118V60A34 34 0 1 1 82 60V118Z" fill="#12306b"/>
+<path d="M25 118V62A27 27 0 1 1 75 62V118Z" fill="#f7f1e6"/>
+<g transform="translate(50 34)"><rect x="-6" y="-6" width="12" height="12" fill="#f5b225"/><rect x="-6" y="-6" width="12" height="12" fill="#f5b225" transform="rotate(45)"/><circle r="3" fill="#12306b"/></g>
+<circle cx="50" cy="84" r="17" fill="#f5b225"/>
+<path d="M25 96Q40 84 54 92T75 88V118H25Z" fill="#1fa3b5"/>
+<path d="M25 104Q37.5 97 50 104Q62.5 97 75 104V118H25Z" fill="#12306b"/>
+<path d="M50 104V117M31 108Q40.5 103 50 108Q59.5 103 69 108" stroke="#f7f1e6" stroke-width="2" fill="none" stroke-linecap="round"/>
+<text class="w" x="104" y="62" font-size="38" fill="#12306b">Learning</text>
+<text class="w" x="104" y="100" font-size="38" fill="#12306b">Morocco</text>
+<rect x="276" y="83" width="26" height="2" fill="#f5b225"/>
+<text class="t" x="310" y="90" font-size="14" fill="#1fa3b5">TOURS</text>
+<text class="t" x="106" y="120" font-size="10.5" fill="#1fa3b5" style="letter-spacing:.28em">LEARN · DISCOVER · EXPERIENCE</text>
+</svg>
