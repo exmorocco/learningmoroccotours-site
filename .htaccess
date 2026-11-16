@@ -10,3 +10,11 @@ ExpiresByType text/html "access plus 0 seconds"
 <IfModule mod_deflate.c>
 AddOutputFilterByType DEFLATE text/html text/css application/javascript image/svg+xml application/xml text/plain
 </IfModule>
+
+# Old WordPress URLs still in Google (site rebuilt 2026-11-14)
+<IfModule mod_alias.c>
+Redirect 301 /destinations/ https://learningmoroccotours.com/fr/
+Redirect 301 /explorer-les-destinations-educatives-un-voyage-inoubliable/ https://learningmoroccotours.com/fr/
+Redirect 301 /decouvrez-les-ravissants-voyages-educatifs-a-travers-le-monde/ https://learningmoroccotours.com/fr/
+RedirectMatch 410 ^/(hello-world[^/]*|wp-login\.php|wp-admin|xmlrpc\.php|feed|comments|category|author|tag)(/.*)?$
+</IfModule>
